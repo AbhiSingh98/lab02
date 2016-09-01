@@ -1,10 +1,10 @@
 # Lab 02 -- Chapter 01
 
 ## Define the followint terms:
-* object,
-* class,
-* instance,
-* method,
+* object-"object" refers to a particular instance of a class where the object can be a combination of variables, functions, and data structures.
+* class-Is a program code to create objects.
+* instance-propertys and behaviors of categorys of things
+* method
 * signature,
 * parameter,
 * type,
