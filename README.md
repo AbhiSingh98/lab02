@@ -4,9 +4,9 @@
 * object-"object" refers to a particular instance of a class where the object can be a combination of variables, functions, and data structures.
 * class-Is a program code to create objects.
 * instance-propertys and behaviors of categorys of things
-* method
-* signature,
-* parameter,
+* method- set of code which is called by name. It is like a subprogram.
+* signature-the method name and the number and type of its parameters
+* parameter
 * type,
 * state,
 * source code,
