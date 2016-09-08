@@ -1,29 +1,29 @@
 # Lab 02 -- Chapter 01
 
 ## Define the followint terms:
-* object-"object" refers to a particular instance of a class where the object can be a combination of variables, functions, and data structures.
-* class-Is a program code to create objects.
-* instance-propertys and behaviors of categorys of things
-* method- set of code which is called by name. It is like a subprogram.
-* signature-the method name and the number and type of its parameters
-* parameter- is a special variable, it's a value that is passed to a routine.
-* type- a classification identifying one of various types of data
-* state-is a term where it holds all the stored information, and at a given instant in time, to which the circuit or program has access.
-* source code- is human constructions written using human-readable computer language.
-* return value-is a statement that tells a function to return execution of the program to the calling function, and report the value of exp .
-* compiler-special program that processes statements written in a particular programming language and turns them into machine language
+* object-state or behavior(instance) of a class
+* class-blueprint (code) that defines how to create an object.
+* instance-specific realization of any object.
+* method-a collection of statements, in a class used to manipulate (mutators) or acess (accessors) information from an ojbect of that class. (Behaves like a function in math)
+* signature-name of the method and the type of parameter. I.E, the following signature changes the size of the instance "box" of class "box" and does not give an output.
+* parameter-an input of the method. I.e "box" is the parameter in the example above. 
+* type-defines what values the parameter is allowed to be.
+* state- Set of values describing the object.
+* source code- collection of written commands that compiles to create an excutable program..
+* return value-output of method
+* compiler-transforms source code into computer language
 
 ## In Chapter 1 we have mentioned the data types int and String. Java has more predefined data types. Find out what they are and what they are used for. To do this, you can check Appendix B, or look it up in another Java book or in an online Java language manual. One such manual is at [http://download.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html](http://download.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
 
 ## What are the types of the following values?
 
-* 0-int
+* 0-int, double, float
 * "hello"-string
-* 101-int
-* -1-int
+* 101-int, double, float
+* -1-int, double, float
 * true-boolean
 * "33"-string
-* 3.1415-double
+* 3.1415-double, float
 
 ## What would you have to do to add a new field, for example one called name, to a circle object?
 To add a new field, you would have to add a parameter.
